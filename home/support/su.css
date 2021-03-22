@@ -5,9 +5,12 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
+	font-family: 'Anton', sans-serif;
 }
 
 .form {
+	width: 800px;
+	height: 400px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -26,4 +29,13 @@ body{
 	color: #fff;
 	font-size: 40px;
 	text-transform: uppercase;
+}
+.block12{
+	position: absolute;
+	top: 40%;
+}
+
+.block13{
+	position: absolute;
+	top: 80%;
 }

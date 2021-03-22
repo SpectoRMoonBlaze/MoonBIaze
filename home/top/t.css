@@ -5,7 +5,7 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
-
+font-family: 'Anton', sans-serif;
 }
 
 .form {
@@ -32,7 +32,7 @@ body{
 .block2{
 	position: 	absolute;	
 	top: 110%;
-	left: -50%;
+	left: -20%;
 }
 .block3{
 	position: absolute;
@@ -58,7 +58,7 @@ body{
 .block8{
 	position: absolute;
 	top: 110%;
-	left:-37%;
+	left:-10%;
 }
 .block7{
 	border-radius: 10px;

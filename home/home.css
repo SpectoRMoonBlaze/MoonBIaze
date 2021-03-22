@@ -81,12 +81,14 @@ height: 350px;
 position: absolute;
 right: 10%;
 top: 110%;
+outline: 	10px white;
 }
 
 .block16{
 	height: 400px;
 position: absolute;
 top: 90%;
+
 }
 
 .block17{

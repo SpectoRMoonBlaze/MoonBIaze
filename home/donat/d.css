@@ -5,12 +5,14 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
+		font-family: 'Anton', sans-serif;
 }
 
 .form {
-	width: 700px;
+	width: 800px;
+	height: 900px;
 	position: absolute;
-	top: 50%;
+	top: 70%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -27,6 +29,9 @@ body{
 }
 
 .input-form input[type="submit"] {
+	position: absolute;
+	top: 730px;
+	left: 30%;
 	height: 120px;
 	width: 300px;
 	margin-top: 20px;
