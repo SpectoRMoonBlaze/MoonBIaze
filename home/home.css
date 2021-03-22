@@ -5,26 +5,26 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
-	font-family: 'Rubik Mono One', sans-serif;
+	font-family: 'Anton', sans-serif;
 }
 
 .block1{
   	position: absolute;
-	top: 15%;
+	top: 17%;
 	left: 10%;
 	transform: translate(-50%,-50%);
 }
 
 .block2{
   	position: absolute;
-	top: 15%;
+	top: 17%;
 	left:50%;
 	transform: translate(-50%,-50%);
 }
 
 .block3{
   	position: absolute;
-	top: 15%;
+	top: 17%;
 	left:90%;
 	transform: translate(-50%,-50%);
 }
@@ -67,13 +67,13 @@ a{
 	position: absolute;
 	top:500px ;
 	left: 300px;
-	height: 100px;
+	height: 400px;
 }
 
 .block14{
 position: absolute;
 right: 5px;
-height: 400px;
+height: 350px;
 }
 
 .block15{
@@ -92,7 +92,7 @@ top: 90%;
 .block17{
 	position: absolute;
 	left: 58%;
-	top: 150%;
+	top: 145%;
 }
 
 .block18{
