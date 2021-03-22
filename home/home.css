@@ -65,15 +65,16 @@ a{
 
 .block13{
 	position: absolute;
-	top:500px ;
-	left: 300px;
+	top: 350px;
+	left: 700px;
 	height: 400px;
 }
 
 .block14{
 position: absolute;
-right: 5px;
-height: 350px;
+top: 430px;
+left: 500px;
+height: 380px;
 }
 
 .block15{
@@ -99,6 +100,7 @@ top: 90%;
 
 .block18{
 	position: absolute;
+	left: 23%;
 	top: 165%;
 }
 .block19{
@@ -121,4 +123,9 @@ top: 90%;
 	position: absolute;
 	top: 206%;
 	left: 50%;
+}
+
+.block65{
+	position: absolute;
+	top: 50%;
 }
