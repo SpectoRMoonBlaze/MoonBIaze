@@ -5,14 +5,14 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
-font-family: 'Anton', sans-serif;
+	font-family: 'Permanent Marker', cursive;
 }
 
 .form {
 	height: 600px;
 	width: 700px;
 	position: absolute;
-	top: 50%;
+	top: 70%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -74,7 +74,7 @@ font-family: 'Anton', sans-serif;
 	height: 600px;
 	width: 700px;
 	position: absolute;
-	top: 120%;
+	top: 160%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -86,5 +86,11 @@ font-family: 'Anton', sans-serif;
 	background-color: white;
 	height: 1px;
 	position: absolute;
-	top: 160%;
+	top: 210%;
+}
+
+.block83{
+	position: absolute;
+	top: 20%;
+	left:43%;
 }

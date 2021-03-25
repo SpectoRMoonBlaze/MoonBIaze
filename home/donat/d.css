@@ -5,14 +5,14 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
-		font-family: 'Anton', sans-serif;
+	font-family: 'Permanent Marker', cursive;
 }
 
 .form {
-	width: 800px;
-	height: 900px;
+	width: 700px;
+	height: 800px;
 	position: absolute;
-	top: 70%;
+	top: 82%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -30,7 +30,7 @@ body{
 
 .input-form input[type="submit"] {
 	position: absolute;
-	top: 730px;
+	top: 80%;
 	left: 30%;
 	height: 120px;
 	width: 300px;
@@ -66,8 +66,13 @@ a {
 	border: 1px solid #fff;
 	box-sizing: border-box;
 }
+.block3{
+	position: absolute;
+	top: 100%;
+}
 
-.fonts {
-  font-family: 'a Apple Tea';
-  src: url(./a+Apple+Tea.woff2) format('woff2');
+.block4{
+	position: absolute;
+	top: 140%;
+	opacity: 0%;
 }

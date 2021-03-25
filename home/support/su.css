@@ -5,7 +5,7 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: sans-serif;
-	font-family: 'Anton', sans-serif;
+	font-family: 'Permanent Marker', cursive;
 }
 
 .form {
@@ -38,4 +38,19 @@ body{
 .block13{
 	position: absolute;
 	top: 80%;
+}
+
+.block14{
+	position: absolute;
+	left: 1%;
+}
+
+.block12{
+	position: absolute;
+	left: 1%;
+}
+
+.block13{
+	position: absolute;
+	left: 1%;
 }
